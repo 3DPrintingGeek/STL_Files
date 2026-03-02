@@ -1,4 +1,4 @@
-# May Flow Rate Test for Creality K1
+# Max Flow Rate Test for Creality K1
 
 Test the max flow rate of your K1 / K1 Max using the pre-sliced GCode.
 
